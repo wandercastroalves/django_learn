@@ -1,0 +1,8 @@
+Ambiente virtual 
+ pasta onde instala todas as dependencia de um projeto 
+
+venv - gerenciador de ambiente virtual do python (padrão)
+
+Criando ambiente virtual e instalar o django
+
+
