@@ -13,7 +13,7 @@ Criar chave ssh github
 	abrir terminal 
 	git config --global user.name "wandercastroalves"
 	git config --global user.email "wander@micronetbrasil.com"
-	git config --global init.defaulBranch main
+	git config --global init.defaultBranch main
 	git init
 
 	ssh-keygen
