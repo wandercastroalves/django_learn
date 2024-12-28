@@ -4,5 +4,17 @@ Ambiente virtual
 venv - gerenciador de ambiente virtual do python (padrão)
 
 Criando ambiente virtual e instalar o django
+   abriando a pasta no vscode
+     code .caminho da pasta
+	no vscod dentro da pasta do ambiente virtual crtl+shift+p - select interpreter - 
+	
+Criar chave ssh github
+	criar repositorio 
+	abrir terminal 
+	git config --global user.name "wandercastroalves"
+	git config --global user.email "wander@micronetbrasil.com"
+	git config --global init.defaulBranch main
+	git init
 
-
+	ssh-keygen
+	
