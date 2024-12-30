@@ -7,8 +7,3 @@ def home(request):
         'Name': 'Wander de castro',
     })
 
-def contato(request):
-    return HttpResponse('contatos')
-
-def sobre(request):
-    return HttpResponse('Sobre')
